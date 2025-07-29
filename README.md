@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Tailwind CSS Translation & Random String Web App
 
 A modern React application built with TypeScript and Tailwind CSS that provides text translation services and random string generation capabilities.
@@ -138,3 +139,6 @@ The app uses Tailwind CSS for styling with:
 - For production use, consider implementing server-side API key management
 - The translation service requires an active internet connection and valid API key
 - All components are fully responsive and follow React best practices
+=======
+# Text-translator
+>>>>>>> 8f7d344d9845576a772072225349a6f1acd35677
